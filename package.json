@@ -1,0 +1,13 @@
+{
+  "name": "com.buildwithimal.projecthub",
+  "version": "1.0.0",
+  "description": "Project Hub - BuildWithImal SAPUI5 mission",
+  "private": true,
+  "scripts": {
+    "start": "ui5 serve -o index.html",
+    "build": "ui5 build --all"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4.0.70"
+  }
+}
